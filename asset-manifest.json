@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YuriyArtemchuk/YuriyArtemchuk-github.io/static/css/main.51c9e697.css",
+    "main.js": "/YuriyArtemchuk/YuriyArtemchuk-github.io/static/js/main.a9b37413.js",
+    "index.html": "/YuriyArtemchuk/YuriyArtemchuk-github.io/index.html",
+    "main.51c9e697.css.map": "/YuriyArtemchuk/YuriyArtemchuk-github.io/static/css/main.51c9e697.css.map",
+    "main.a9b37413.js.map": "/YuriyArtemchuk/YuriyArtemchuk-github.io/static/js/main.a9b37413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c9e697.css",
+    "static/js/main.a9b37413.js"
+  ]
+}
